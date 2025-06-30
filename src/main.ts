@@ -9,7 +9,9 @@ import { setupCounter } from './counter.ts'
 // import './topics/desestructuracion-objetos.ts'
 // import './topics/06-destructuring-arguments.ts'
 // import './topics/07-import-export.ts'
-import './topics/08-clasess.ts'
+// import './topics/08-clasess.ts'
+// import './topics/09-generics.ts'
+import './topics/10-decorators.ts'
 const app = document.querySelector<HTMLDivElement>('#app');
 // console.log(app);
 app!.innerHTML = `hola we`;
